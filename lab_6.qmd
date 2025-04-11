@@ -1,7 +1,7 @@
 ---
 project:
   title: "Lab_6"
-  output-dir: docs
+  output-dir:  docs
   type: website
 format: 
   html: 
