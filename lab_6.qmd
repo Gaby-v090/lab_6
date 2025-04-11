@@ -1,7 +1,12 @@
 ---
-title: "lab_6"
-format: html
-editor: visual
+project:
+  title: "Lab_6"
+  output-dir: docs
+  type: website
+format: 
+  html: 
+    selt-contained: true
+  
 ---
 
 ```{r}
